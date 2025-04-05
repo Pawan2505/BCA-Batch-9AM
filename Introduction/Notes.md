@@ -1,4 +1,4 @@
-## **Lecture Notes: C++ **
+### **Lecture Notes: C++**
 
 ### **1. Introduction to C++**
 - **C++** is a general-purpose, object-oriented programming language.
